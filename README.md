@@ -7,10 +7,7 @@ Wanted to create a realtime management solution to storing various information a
 - Updating data
 - viewing news
 
-![Visual Example1](images/exampleCollage1.jpg)
-
-![Visual Example2](images/exampleCollage2.jpg)
-
+![Visual Example1](images/user-management-data-table-1160367952.png)
 
 ### Project Technologies/Techniques 
 
