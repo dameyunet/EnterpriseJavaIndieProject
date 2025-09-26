@@ -1,15 +1,11 @@
 ### Problem Statement
 
-My Friend has been traveling a lot lately and wanted a cool and interactive way 
-to document the locations he’s been to. I was thinking to create an application 
-with a collage of images on an html page. Those images would be intractable allowing 
-him to click revealing more information and images. This webpage would receive its 
-information from an sql server housing all the data.
+Wanted to create a realtime management solution to storing various information about users using the Steam api. A user would be able to view player stats, achievements, and in game data among other things.
 
 ### Main Features:
 - Logging data
 - Updating data
-- Storing images
+- viewing news
 
 ![Visual Example1](images/exampleCollage1.jpg)
 
@@ -29,7 +25,7 @@ information from an sql server housing all the data.
 * Web Services consumed using Java
   * TBD 
 * CSS 
-  * Bootstrap or Materialize 
+  * Bootstrap
 * Data Validation
   * Bootstrap Validator for front end
   * Explore Hibernate Validator?
@@ -40,7 +36,6 @@ information from an sql server housing all the data.
 * Tech I'd like to explore as part of this work
   * CI tools in AWS
   * Materialize
-  * Google Maps API
   * Hibernate Validator
   * Hibernate Search
 * Project Lombok
@@ -57,10 +52,6 @@ information from an sql server housing all the data.
 
 ### [Project Plan](ProjectPlan.md)
 
-### Examples of documentation of progress, reflections, and time spent on this class
-Choose a format that works for you, or create your own.
-
-#### [Weekly Refelection](WeeklyReflection.md)
-#### [Journal](Journal.md)
+### Reflections and time spent
 #### [TimeLog](TimeLog.md)
 
