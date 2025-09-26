@@ -43,7 +43,7 @@ Wanted to create a realtime management solution to storing various information a
 
 ### Design
 
-* [User Stories](DesignDocuments/userStories.md)
+* [User Stories](userStories.md)
 * [Screen Design](DesignDocuments/Screens.md)
 
 
